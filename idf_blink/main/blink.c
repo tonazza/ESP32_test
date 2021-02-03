@@ -14,6 +14,7 @@
 
 /* Can use project configuration menu (idf.py menuconfig) to choose the GPIO to blink,
    or you can edit the following line and set a number here.
+   commento a caso
 */
 #define BLINK_GPIO 2
 
