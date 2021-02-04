@@ -16,9 +16,10 @@
    or you can edit the following line and set a number here.
    commento a caso
 */
-#define BLINK_GPIO 2
+#define BLINK_GPIO 4
 /* 2 = verde
- * 4 = rosso */
+ * 4 = rosso
+ * 				*/
 
 void app_main(void)
 {
