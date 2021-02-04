@@ -115,7 +115,8 @@ static void smartconfig_example_task(void * parm)
 }
 
 /* commenti memorabili a caso...
- * ma molto a caso...*/
+ * ma molto a caso...
+ * ma molto molto  molto a caso....*/
 void app_main(void)
 {
     ESP_ERROR_CHECK( nvs_flash_init() );
