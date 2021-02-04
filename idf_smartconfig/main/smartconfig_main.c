@@ -114,7 +114,7 @@ static void smartconfig_example_task(void * parm)
     }
 }
 
-/* commenti memorabili a caso...*/
+/* commenti memorabili a caso fess...*/
 
 void app_main(void)
 {
